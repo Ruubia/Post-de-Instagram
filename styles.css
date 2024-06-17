@@ -1,0 +1,56 @@
+img {
+    width: 100%;
+}
+.post {
+    width: 400px;
+    margin: auto;   
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    font-family: 'Roboto';
+    background-color: black;
+}
+
+.post-header {
+    display: flex;
+}
+
+.iconos-footer {
+    display: inline-block;
+}
+.iconos {
+    display: flex;
+}
+div {
+    background-color: white;
+}
+#logo {
+    width: 50px;
+	margin: 10px;
+	margin-top: 20px;
+}
+#circle {
+    width: 50px;
+	margin-left: 260px;
+	margin-top: 20px;
+}
+#html5 p {
+    margin-top: -17px;
+}
+.post-footer {
+    display: flex;
+}
+#bookmark {
+    margin-left: 290px;
+}
+#left-icons {
+    margin-left: 10px;
+}
+#hashtags {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#description {
+    margin-left: 10px;
+    margin-right: 10px;
+}
